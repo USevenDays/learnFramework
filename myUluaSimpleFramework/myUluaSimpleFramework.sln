@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myUluaSimpleFramework.CSharp", "myUluaSimpleFramework.CSharp.csproj", "{1DFF424D-913D-E516-BB50-8EFD3A80504D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myUluaSimpleFramework.CSharp.Editor", "myUluaSimpleFramework.CSharp.Editor.csproj", "{787C58AB-6630-24B9-F36F-39DB13F332DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DFF424D-913D-E516-BB50-8EFD3A80504D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DFF424D-913D-E516-BB50-8EFD3A80504D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DFF424D-913D-E516-BB50-8EFD3A80504D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DFF424D-913D-E516-BB50-8EFD3A80504D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{787C58AB-6630-24B9-F36F-39DB13F332DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787C58AB-6630-24B9-F36F-39DB13F332DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787C58AB-6630-24B9-F36F-39DB13F332DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787C58AB-6630-24B9-F36F-39DB13F332DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

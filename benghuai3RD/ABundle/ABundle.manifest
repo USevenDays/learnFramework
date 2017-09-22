@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 4104875565
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: textureab
+      Dependencies: {}
+    Info_1:
+      Name: cubeab
+      Dependencies:
+        Dependency_0: cube2
+    Info_2:
+      Name: cube2
+      Dependencies: {}
